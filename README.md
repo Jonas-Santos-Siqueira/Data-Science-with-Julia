@@ -1,1 +1,1 @@
-# Data-Science-with-Julia
+- My studies of Julia Language for data science
